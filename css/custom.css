@@ -663,7 +663,7 @@ body {
 	display: flex;
 	flex-direction: row;
 	width: 120px;
-	bottom: 85px;
+	bottom: 25px;
 	right: 50px;
 	z-index: 10;
   }
